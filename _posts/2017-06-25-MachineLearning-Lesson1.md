@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "斯坦福公开课：《机器学习》课程学习笔记 Lesson-1"
-date:   2017-06-25 22:02:00 +8000
+date:   2017-06-25
+category:  "ML"
+tag: "ML"
 ---
 # 第一节 `机器学习的动机与应用`
 ### Machine Learning Definition
